@@ -4,8 +4,8 @@
 function getBasePath() {
     const path = window.location.pathname;
     // Check if we're in a subdirectory (GitHub Pages project repo)
-    if (path.includes('/M13AAA-Elite-2025-26-Season-LHEQ/')) {
-        return '/M13AAA-Elite-2025-26-Season-LHEQ/';
+    if (path.includes('/M13AAA-2025-26-Season-LHEQ/')) {
+        return '/M13AAA-2025-26-Season-LHEQ/';
     }
     return '/';
 }
