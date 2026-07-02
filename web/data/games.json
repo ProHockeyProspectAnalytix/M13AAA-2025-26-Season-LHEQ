@@ -1,5 +1,15 @@
 [
   {
+    "id": 614322,
+    "date": "2025-09-13",
+    "home_team": "CORSAIRES POINTE-LÉVY",
+    "away_team": "BLIZZARD SSF",
+    "home_score": 2,
+    "away_score": 3,
+    "status": "FINAL",
+    "game_type": "season"
+  },
+  {
     "id": 614744,
     "date": "2025-09-13",
     "home_team": "CORSAIRES POINTE-LÉVY",

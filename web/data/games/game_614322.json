@@ -1,0 +1,1880 @@
+{
+  "id": 614322,
+  "status": "FINAL",
+  "original_status": "ACTIVE",
+  "home_team": "CORSAIRES POINTE-LÉVY",
+  "away_team": "BLIZZARD SSF",
+  "date": "2025-09-13",
+  "start_time": "2025-09-13T10:00:00.000Z",
+  "home_score": 2,
+  "away_score": 3,
+  "detail_url": "https://lheq.qc.ca/calendrier/614322",
+  "gamesheet_pdf_url": "https://pdf.play.spordle.com/game/614322?locale=fr",
+  "boxscore": {
+    "gameNumber": "1000",
+    "teams": [
+      {
+        "id": 118876,
+        "name": "CORSAIRES POINTE-LÉVY",
+        "isPublic": true,
+        "logoUrl": "https://d1yykh3c16sa22.cloudfront.net/organizations/1ed2df62-3669-6064-951a-0672fb667b66/logos/1ed2df62-3682-68e8-8690-0672fb667b66.png"
+      },
+      {
+        "id": 128297,
+        "name": "BLIZZARD SSF",
+        "isPublic": true,
+        "logoUrl": "https://d1yykh3c16sa22.cloudfront.net/teams/1f05e5ce-41f4-6e38-8f29-0627b38ad1df/logos/1f05e5ce-41d3-6db4-a90d-0627b38ad1df.png"
+      }
+    ],
+    "goals": [
+      {
+        "gameTime": {
+          "period": "1",
+          "minutes": 5,
+          "seconds": 54
+        },
+        "teamId": 128297,
+        "participant": {
+          "fullName": "PHILIPPE ROCHON",
+          "number": 18,
+          "participantId": 952050
+        },
+        "assists": [
+          {
+            "fullName": "EDWIN GAUDY",
+            "number": 10,
+            "participantId": 959339
+          },
+          {
+            "fullName": "LUCAS BÉDARD",
+            "number": 13
+          }
+        ],
+        "isPowerplay": false,
+        "isShorthanded": false,
+        "isEmptyNet": false,
+        "isPenaltyShot": false,
+        "isOwnGoal": null
+      },
+      {
+        "gameTime": {
+          "period": "1",
+          "minutes": 12,
+          "seconds": 47
+        },
+        "teamId": 128297,
+        "participant": {
+          "fullName": "TOMMY MÉNARD",
+          "number": 20,
+          "participantId": 952047
+        },
+        "assists": [
+          {
+            "fullName": "THOMAS LETOURNEAU",
+            "number": 19,
+            "participantId": 952046
+          }
+        ],
+        "isPowerplay": false,
+        "isShorthanded": false,
+        "isEmptyNet": false,
+        "isPenaltyShot": false,
+        "isOwnGoal": null
+      },
+      {
+        "gameTime": {
+          "period": "2",
+          "minutes": 10,
+          "seconds": 50
+        },
+        "teamId": 128297,
+        "participant": {
+          "fullName": "CHARLES-ÉLI BERGERON",
+          "number": 17,
+          "participantId": 828474
+        },
+        "assists": [],
+        "isPowerplay": false,
+        "isShorthanded": false,
+        "isEmptyNet": false,
+        "isPenaltyShot": false,
+        "isOwnGoal": null
+      },
+      {
+        "gameTime": {
+          "period": "1",
+          "minutes": 10,
+          "seconds": 57
+        },
+        "teamId": 118876,
+        "participant": {
+          "fullName": "FÉLIX TURMEL",
+          "number": 3,
+          "participantId": 909840
+        },
+        "assists": [
+          {
+            "fullName": "ÉTIENNE FRADÉTTE",
+            "number": 6,
+            "participantId": 857573
+          },
+          {
+            "fullName": "GABRIEL GUILLEMETTE",
+            "number": 11
+          }
+        ],
+        "isPowerplay": false,
+        "isShorthanded": false,
+        "isEmptyNet": false,
+        "isPenaltyShot": false,
+        "isOwnGoal": null
+      },
+      {
+        "gameTime": {
+          "period": "3",
+          "minutes": 13,
+          "seconds": 7
+        },
+        "teamId": 118876,
+        "participant": {
+          "fullName": "MILAN BÉLANGER",
+          "number": 17,
+          "participantId": 760590
+        },
+        "assists": [
+          {
+            "fullName": "LOUIS-PHILIPPE BOUFFARD",
+            "number": 4,
+            "participantId": 760593
+          },
+          {
+            "fullName": "WILLIAM DUGUAY",
+            "number": 13
+          }
+        ],
+        "isPowerplay": false,
+        "isShorthanded": false,
+        "isEmptyNet": false,
+        "isPenaltyShot": false,
+        "isOwnGoal": null
+      }
+    ],
+    "penalties": [
+      {
+        "gameTime": {
+          "period": "1",
+          "minutes": 3,
+          "seconds": 11
+        },
+        "teamId": 128297,
+        "infraction": "A53",
+        "duration": {
+          "name": "Minor",
+          "description": null,
+          "i18n": {
+            "fr": {
+              "name": "Mineure"
+            }
+          }
+        },
+        "participant": {
+          "fullName": "CHARLES-ÉLI BERGERON",
+          "number": 17,
+          "participantId": 828474
+        },
+        "code": "A53",
+        "i18n": {
+          "fr": {
+            "infraction": "A53"
+          }
+        }
+      },
+      {
+        "gameTime": {
+          "period": "2",
+          "minutes": 8,
+          "seconds": 21
+        },
+        "teamId": 128297,
+        "infraction": "A48",
+        "duration": {
+          "name": "Minor",
+          "description": null,
+          "i18n": {
+            "fr": {
+              "name": "Mineure"
+            }
+          }
+        },
+        "participant": {
+          "fullName": "PHILIPPE ROCHON",
+          "number": 18,
+          "participantId": 952050
+        },
+        "code": "A48",
+        "i18n": {
+          "fr": {
+            "infraction": "A48"
+          }
+        }
+      },
+      {
+        "gameTime": {
+          "period": "2",
+          "minutes": 10,
+          "seconds": 24
+        },
+        "teamId": 128297,
+        "infraction": "A56",
+        "duration": {
+          "name": "Minor",
+          "description": null,
+          "i18n": {
+            "fr": {
+              "name": "Mineure"
+            }
+          }
+        },
+        "participant": {
+          "fullName": "ALEX COUTURE",
+          "number": 12,
+          "participantId": 952045
+        },
+        "code": "A56",
+        "i18n": {
+          "fr": {
+            "infraction": "A56"
+          }
+        }
+      },
+      {
+        "gameTime": {
+          "period": "2",
+          "minutes": 11,
+          "seconds": 26
+        },
+        "teamId": 128297,
+        "infraction": "A53",
+        "duration": {
+          "name": "Minor",
+          "description": null,
+          "i18n": {
+            "fr": {
+              "name": "Mineure"
+            }
+          }
+        },
+        "participant": {
+          "fullName": "WILLIAM CLEARY",
+          "number": 7
+        },
+        "code": "A53",
+        "i18n": {
+          "fr": {
+            "infraction": "A53"
+          }
+        }
+      },
+      {
+        "gameTime": {
+          "period": "3",
+          "minutes": 1,
+          "seconds": 29
+        },
+        "teamId": 128297,
+        "infraction": "A53",
+        "duration": {
+          "name": "Minor",
+          "description": null,
+          "i18n": {
+            "fr": {
+              "name": "Mineure"
+            }
+          }
+        },
+        "participant": {
+          "fullName": "THOMAS LETOURNEAU",
+          "number": 19,
+          "participantId": 952046
+        },
+        "code": "A53",
+        "i18n": {
+          "fr": {
+            "infraction": "A53"
+          }
+        }
+      },
+      {
+        "gameTime": {
+          "period": "3",
+          "minutes": 13,
+          "seconds": 51
+        },
+        "teamId": 128297,
+        "infraction": "A53",
+        "duration": {
+          "name": "Minor",
+          "description": null,
+          "i18n": {
+            "fr": {
+              "name": "Mineure"
+            }
+          }
+        },
+        "participant": {
+          "fullName": "OLIVIER BERTRAND",
+          "number": 16,
+          "participantId": 952048
+        },
+        "code": "A53",
+        "i18n": {
+          "fr": {
+            "infraction": "A53"
+          }
+        }
+      },
+      {
+        "gameTime": {
+          "period": "1",
+          "minutes": 6,
+          "seconds": 50
+        },
+        "teamId": 118876,
+        "infraction": "A53",
+        "duration": {
+          "name": "Minor",
+          "description": null,
+          "i18n": {
+            "fr": {
+              "name": "Mineure"
+            }
+          }
+        },
+        "participant": {
+          "fullName": "ALEX-ANTOINE LEMAY",
+          "number": 19
+        },
+        "code": "A53",
+        "i18n": {
+          "fr": {
+            "infraction": "A53"
+          }
+        }
+      },
+      {
+        "gameTime": {
+          "period": "2",
+          "minutes": 0,
+          "seconds": 45
+        },
+        "teamId": 118876,
+        "infraction": "A53",
+        "duration": {
+          "name": "Minor",
+          "description": null,
+          "i18n": {
+            "fr": {
+              "name": "Mineure"
+            }
+          }
+        },
+        "participant": {
+          "fullName": "LOUIS-PHILIPPE BOUFFARD",
+          "number": 4,
+          "participantId": 760593
+        },
+        "code": "A53",
+        "i18n": {
+          "fr": {
+            "infraction": "A53"
+          }
+        }
+      },
+      {
+        "gameTime": {
+          "period": "3",
+          "minutes": 9,
+          "seconds": 33
+        },
+        "teamId": 118876,
+        "infraction": "A50",
+        "duration": {
+          "name": "Minor",
+          "description": null,
+          "i18n": {
+            "fr": {
+              "name": "Mineure"
+            }
+          }
+        },
+        "participant": {
+          "fullName": "LOUIS-PHILIPPE BOUFFARD",
+          "number": 4,
+          "participantId": 760593
+        },
+        "code": "A50",
+        "i18n": {
+          "fr": {
+            "infraction": "A50"
+          }
+        }
+      }
+    ],
+    "roster": [
+      {
+        "teamId": 118876,
+        "participantId": 909840,
+        "positions": [
+          "F"
+        ],
+        "number": 3,
+        "isCaptain": false,
+        "isAlternate": false,
+        "isAffiliate": false,
+        "isOverage": false,
+        "isUnderage": false,
+        "isReleased": false,
+        "seasonId": null,
+        "officeId": 9175,
+        "externalId": null,
+        "id": null,
+        "participant": {
+          "fullName": "FÉLIX TURMEL"
+        }
+      },
+      {
+        "teamId": 118876,
+        "participantId": 760593,
+        "positions": [
+          "F"
+        ],
+        "number": 4,
+        "isCaptain": false,
+        "isAlternate": false,
+        "isAffiliate": false,
+        "isOverage": false,
+        "isUnderage": false,
+        "isReleased": false,
+        "seasonId": null,
+        "officeId": 9175,
+        "externalId": null,
+        "id": null,
+        "participant": {
+          "fullName": "LOUIS-PHILIPPE BOUFFARD"
+        }
+      },
+      {
+        "teamId": 118876,
+        "participantId": 857573,
+        "positions": [
+          "F"
+        ],
+        "number": 6,
+        "isCaptain": false,
+        "isAlternate": false,
+        "isAffiliate": false,
+        "isOverage": false,
+        "isUnderage": false,
+        "isReleased": false,
+        "seasonId": null,
+        "officeId": 9175,
+        "externalId": null,
+        "id": null,
+        "participant": {
+          "fullName": "ÉTIENNE FRADÉTTE"
+        }
+      },
+      {
+        "teamId": 118876,
+        "participantId": 909841,
+        "positions": [
+          "D"
+        ],
+        "number": 7,
+        "isCaptain": false,
+        "isAlternate": false,
+        "isAffiliate": false,
+        "isOverage": false,
+        "isUnderage": false,
+        "isReleased": false,
+        "seasonId": null,
+        "officeId": 9175,
+        "externalId": null,
+        "id": null,
+        "participant": {
+          "fullName": "MAXENCE BLAIS"
+        }
+      },
+      {
+        "teamId": 118876,
+        "participantId": null,
+        "positions": [
+          "F"
+        ],
+        "number": 8,
+        "isCaptain": false,
+        "isAlternate": false,
+        "isAffiliate": false,
+        "isOverage": false,
+        "isUnderage": false,
+        "isReleased": false,
+        "seasonId": null,
+        "officeId": 9175,
+        "externalId": null,
+        "id": null,
+        "participant": {
+          "fullName": "ELIOT GENDRON"
+        }
+      },
+      {
+        "teamId": 118876,
+        "participantId": 909844,
+        "positions": [
+          "D"
+        ],
+        "number": 9,
+        "isCaptain": false,
+        "isAlternate": false,
+        "isAffiliate": false,
+        "isOverage": false,
+        "isUnderage": false,
+        "isReleased": false,
+        "seasonId": null,
+        "officeId": 9175,
+        "externalId": null,
+        "id": null,
+        "participant": {
+          "fullName": "THOMAS LESSARD"
+        }
+      },
+      {
+        "teamId": 118876,
+        "participantId": 760586,
+        "positions": [
+          "F"
+        ],
+        "number": 10,
+        "isCaptain": false,
+        "isAlternate": false,
+        "isAffiliate": false,
+        "isOverage": false,
+        "isUnderage": false,
+        "isReleased": false,
+        "seasonId": null,
+        "officeId": 9175,
+        "externalId": null,
+        "id": null,
+        "participant": {
+          "fullName": "MÉDÉRIC MÉNARD"
+        }
+      },
+      {
+        "teamId": 118876,
+        "participantId": null,
+        "positions": [
+          "F"
+        ],
+        "number": 11,
+        "isCaptain": false,
+        "isAlternate": false,
+        "isAffiliate": false,
+        "isOverage": false,
+        "isUnderage": false,
+        "isReleased": false,
+        "seasonId": null,
+        "officeId": 9175,
+        "externalId": null,
+        "id": null,
+        "participant": {
+          "fullName": "GABRIEL GUILLEMETTE"
+        }
+      },
+      {
+        "teamId": 118876,
+        "participantId": 909842,
+        "positions": [
+          "D"
+        ],
+        "number": 12,
+        "isCaptain": false,
+        "isAlternate": false,
+        "isAffiliate": false,
+        "isOverage": false,
+        "isUnderage": false,
+        "isReleased": false,
+        "seasonId": null,
+        "officeId": 9175,
+        "externalId": null,
+        "id": null,
+        "participant": {
+          "fullName": "ARNAUD CHAMBERS-ALAIN"
+        }
+      },
+      {
+        "teamId": 118876,
+        "participantId": null,
+        "positions": [
+          "F"
+        ],
+        "number": 13,
+        "isCaptain": false,
+        "isAlternate": false,
+        "isAffiliate": false,
+        "isOverage": false,
+        "isUnderage": false,
+        "isReleased": false,
+        "seasonId": null,
+        "officeId": 9175,
+        "externalId": null,
+        "id": null,
+        "participant": {
+          "fullName": "WILLIAM DUGUAY"
+        }
+      },
+      {
+        "teamId": 118876,
+        "participantId": null,
+        "positions": [
+          "F"
+        ],
+        "number": 14,
+        "isCaptain": false,
+        "isAlternate": false,
+        "isAffiliate": false,
+        "isOverage": false,
+        "isUnderage": false,
+        "isReleased": false,
+        "seasonId": null,
+        "officeId": 9175,
+        "externalId": null,
+        "id": null,
+        "participant": {
+          "fullName": "CHARLES DUVAL"
+        }
+      },
+      {
+        "teamId": 118876,
+        "participantId": null,
+        "positions": [
+          "F"
+        ],
+        "number": 16,
+        "isCaptain": false,
+        "isAlternate": false,
+        "isAffiliate": false,
+        "isOverage": false,
+        "isUnderage": false,
+        "isReleased": false,
+        "seasonId": null,
+        "officeId": 9175,
+        "externalId": null,
+        "id": null,
+        "participant": {
+          "fullName": "ÉMILE PELLETIER"
+        }
+      },
+      {
+        "teamId": 118876,
+        "participantId": 760590,
+        "positions": [
+          "F"
+        ],
+        "number": 17,
+        "isCaptain": false,
+        "isAlternate": false,
+        "isAffiliate": false,
+        "isOverage": false,
+        "isUnderage": false,
+        "isReleased": false,
+        "seasonId": null,
+        "officeId": 9175,
+        "externalId": null,
+        "id": null,
+        "participant": {
+          "fullName": "MILAN BÉLANGER"
+        }
+      },
+      {
+        "teamId": 118876,
+        "participantId": null,
+        "positions": [
+          "F"
+        ],
+        "number": 18,
+        "isCaptain": false,
+        "isAlternate": false,
+        "isAffiliate": false,
+        "isOverage": false,
+        "isUnderage": false,
+        "isReleased": false,
+        "seasonId": null,
+        "officeId": 9175,
+        "externalId": null,
+        "id": null,
+        "participant": {
+          "fullName": "HUBERT LEMAY"
+        }
+      },
+      {
+        "teamId": 118876,
+        "participantId": null,
+        "positions": [
+          "F"
+        ],
+        "number": 19,
+        "isCaptain": false,
+        "isAlternate": false,
+        "isAffiliate": false,
+        "isOverage": false,
+        "isUnderage": false,
+        "isReleased": false,
+        "seasonId": null,
+        "officeId": 9175,
+        "externalId": null,
+        "id": null,
+        "participant": {
+          "fullName": "ALEX-ANTOINE LEMAY"
+        }
+      },
+      {
+        "teamId": 118876,
+        "participantId": 909845,
+        "positions": [
+          "G"
+        ],
+        "number": 30,
+        "isCaptain": false,
+        "isAlternate": false,
+        "isAffiliate": false,
+        "isOverage": false,
+        "isUnderage": false,
+        "isReleased": false,
+        "seasonId": null,
+        "officeId": 9175,
+        "externalId": null,
+        "id": null,
+        "participant": {
+          "fullName": "MALCOM FOURNIER"
+        }
+      },
+      {
+        "teamId": 118876,
+        "participantId": 909846,
+        "positions": [
+          "G"
+        ],
+        "number": 31,
+        "isCaptain": false,
+        "isAlternate": false,
+        "isAffiliate": false,
+        "isOverage": false,
+        "isUnderage": false,
+        "isReleased": false,
+        "seasonId": null,
+        "officeId": 9175,
+        "externalId": null,
+        "id": null,
+        "participant": {
+          "fullName": "RAPHAËL ROBERGE"
+        }
+      },
+      {
+        "teamId": 128297,
+        "participantId": 952049,
+        "positions": [
+          "G"
+        ],
+        "number": 33,
+        "isCaptain": false,
+        "isAlternate": false,
+        "isAffiliate": false,
+        "isOverage": false,
+        "isUnderage": false,
+        "isReleased": false,
+        "seasonId": null,
+        "officeId": 9175,
+        "externalId": null,
+        "id": null,
+        "participant": {
+          "fullName": "ROMIE BERGERON"
+        }
+      },
+      {
+        "teamId": 128297,
+        "participantId": 828495,
+        "positions": [
+          "G"
+        ],
+        "number": 30,
+        "isCaptain": false,
+        "isAlternate": false,
+        "isAffiliate": false,
+        "isOverage": false,
+        "isUnderage": false,
+        "isReleased": false,
+        "seasonId": null,
+        "officeId": 9175,
+        "externalId": null,
+        "id": null,
+        "participant": {
+          "fullName": "JAKE KELLY"
+        }
+      },
+      {
+        "teamId": 128297,
+        "participantId": null,
+        "positions": [
+          "F"
+        ],
+        "number": 7,
+        "isCaptain": false,
+        "isAlternate": false,
+        "isAffiliate": false,
+        "isOverage": false,
+        "isUnderage": false,
+        "isReleased": false,
+        "seasonId": null,
+        "officeId": 9175,
+        "externalId": null,
+        "id": null,
+        "participant": {
+          "fullName": "WILLIAM CLEARY"
+        }
+      },
+      {
+        "teamId": 128297,
+        "participantId": 828473,
+        "positions": [
+          "F"
+        ],
+        "number": 8,
+        "isCaptain": false,
+        "isAlternate": false,
+        "isAffiliate": false,
+        "isOverage": false,
+        "isUnderage": false,
+        "isReleased": false,
+        "seasonId": null,
+        "officeId": 9175,
+        "externalId": null,
+        "id": null,
+        "participant": {
+          "fullName": "SIMON-OLIVIER CHAREST"
+        }
+      },
+      {
+        "teamId": 128297,
+        "participantId": 952044,
+        "positions": [
+          "F"
+        ],
+        "number": 9,
+        "isCaptain": false,
+        "isAlternate": false,
+        "isAffiliate": false,
+        "isOverage": false,
+        "isUnderage": false,
+        "isReleased": false,
+        "seasonId": null,
+        "officeId": 9175,
+        "externalId": null,
+        "id": null,
+        "participant": {
+          "fullName": "ÉMILE BRIÈRE"
+        }
+      },
+      {
+        "teamId": 128297,
+        "participantId": 959339,
+        "positions": [
+          "D"
+        ],
+        "number": 10,
+        "isCaptain": false,
+        "isAlternate": false,
+        "isAffiliate": false,
+        "isOverage": false,
+        "isUnderage": false,
+        "isReleased": false,
+        "seasonId": null,
+        "officeId": 9175,
+        "externalId": null,
+        "id": null,
+        "participant": {
+          "fullName": "EDWIN GAUDY"
+        }
+      },
+      {
+        "teamId": 128297,
+        "participantId": null,
+        "positions": [
+          "F"
+        ],
+        "number": 11,
+        "isCaptain": false,
+        "isAlternate": false,
+        "isAffiliate": false,
+        "isOverage": false,
+        "isUnderage": false,
+        "isReleased": false,
+        "seasonId": null,
+        "officeId": 9175,
+        "externalId": null,
+        "id": null,
+        "participant": {
+          "fullName": "MALCOLM CLOUTIER"
+        }
+      },
+      {
+        "teamId": 128297,
+        "participantId": 952045,
+        "positions": [
+          "D"
+        ],
+        "number": 12,
+        "isCaptain": false,
+        "isAlternate": false,
+        "isAffiliate": false,
+        "isOverage": false,
+        "isUnderage": false,
+        "isReleased": false,
+        "seasonId": null,
+        "officeId": 9175,
+        "externalId": null,
+        "id": null,
+        "participant": {
+          "fullName": "ALEX COUTURE"
+        }
+      },
+      {
+        "teamId": 128297,
+        "participantId": null,
+        "positions": [
+          "F"
+        ],
+        "number": 13,
+        "isCaptain": false,
+        "isAlternate": false,
+        "isAffiliate": false,
+        "isOverage": false,
+        "isUnderage": false,
+        "isReleased": false,
+        "seasonId": null,
+        "officeId": 9175,
+        "externalId": null,
+        "id": null,
+        "participant": {
+          "fullName": "LUCAS BÉDARD"
+        }
+      },
+      {
+        "teamId": 128297,
+        "participantId": 959338,
+        "positions": [
+          "D"
+        ],
+        "number": 14,
+        "isCaptain": false,
+        "isAlternate": false,
+        "isAffiliate": false,
+        "isOverage": false,
+        "isUnderage": false,
+        "isReleased": false,
+        "seasonId": null,
+        "officeId": 9175,
+        "externalId": null,
+        "id": null,
+        "participant": {
+          "fullName": "SEAN LÉGARÉ"
+        }
+      },
+      {
+        "teamId": 128297,
+        "participantId": 952048,
+        "positions": [
+          "F"
+        ],
+        "number": 16,
+        "isCaptain": false,
+        "isAlternate": false,
+        "isAffiliate": false,
+        "isOverage": false,
+        "isUnderage": false,
+        "isReleased": false,
+        "seasonId": null,
+        "officeId": 9175,
+        "externalId": null,
+        "id": null,
+        "participant": {
+          "fullName": "OLIVIER BERTRAND"
+        }
+      },
+      {
+        "teamId": 128297,
+        "participantId": 828474,
+        "positions": [
+          "F"
+        ],
+        "number": 17,
+        "isCaptain": false,
+        "isAlternate": false,
+        "isAffiliate": false,
+        "isOverage": false,
+        "isUnderage": false,
+        "isReleased": false,
+        "seasonId": null,
+        "officeId": 9175,
+        "externalId": null,
+        "id": null,
+        "participant": {
+          "fullName": "CHARLES-ÉLI BERGERON"
+        }
+      },
+      {
+        "teamId": 128297,
+        "participantId": 952050,
+        "positions": [
+          "F"
+        ],
+        "number": 18,
+        "isCaptain": false,
+        "isAlternate": false,
+        "isAffiliate": false,
+        "isOverage": false,
+        "isUnderage": false,
+        "isReleased": false,
+        "seasonId": null,
+        "officeId": 9175,
+        "externalId": null,
+        "id": null,
+        "participant": {
+          "fullName": "PHILIPPE ROCHON"
+        }
+      },
+      {
+        "teamId": 128297,
+        "participantId": 952046,
+        "positions": [
+          "D"
+        ],
+        "number": 19,
+        "isCaptain": false,
+        "isAlternate": false,
+        "isAffiliate": false,
+        "isOverage": false,
+        "isUnderage": false,
+        "isReleased": false,
+        "seasonId": null,
+        "officeId": 9175,
+        "externalId": null,
+        "id": null,
+        "participant": {
+          "fullName": "THOMAS LETOURNEAU"
+        }
+      },
+      {
+        "teamId": 128297,
+        "participantId": 952047,
+        "positions": [
+          "F"
+        ],
+        "number": 20,
+        "isCaptain": false,
+        "isAlternate": false,
+        "isAffiliate": false,
+        "isOverage": false,
+        "isUnderage": false,
+        "isReleased": false,
+        "seasonId": null,
+        "officeId": 9175,
+        "externalId": null,
+        "id": null,
+        "participant": {
+          "fullName": "TOMMY MÉNARD"
+        }
+      },
+      {
+        "teamId": 128297,
+        "participantId": null,
+        "positions": [
+          "F"
+        ],
+        "number": 21,
+        "isCaptain": false,
+        "isAlternate": false,
+        "isAffiliate": false,
+        "isOverage": false,
+        "isUnderage": false,
+        "isReleased": false,
+        "seasonId": null,
+        "officeId": 9175,
+        "externalId": null,
+        "id": null,
+        "participant": {
+          "fullName": "CHARLES POULIN"
+        }
+      },
+      {
+        "teamId": 128297,
+        "participantId": 828471,
+        "positions": [
+          "D"
+        ],
+        "number": 25,
+        "isCaptain": false,
+        "isAlternate": false,
+        "isAffiliate": false,
+        "isOverage": false,
+        "isUnderage": false,
+        "isReleased": false,
+        "seasonId": null,
+        "officeId": 9175,
+        "externalId": null,
+        "id": null,
+        "participant": {
+          "fullName": "ELLIOTT-JAMES BERNIER"
+        }
+      }
+    ]
+  },
+  "detailed_game_info": {
+    "number": "1000",
+    "date": "2025-09-13",
+    "startTime": "2025-09-13T10:00:00.000Z",
+    "scheduleId": 182366,
+    "officeId": 9175,
+    "homeTeamId": 118876,
+    "awayTeamId": 128297,
+    "status": "FINAL",
+    "id": 614322,
+    "score": {
+      "home": 2,
+      "away": 3
+    }
+  },
+  "home_team_roster": [
+    {
+      "teamId": 118876,
+      "participantId": 909840,
+      "positions": [
+        "F"
+      ],
+      "number": 3,
+      "isCaptain": false,
+      "isAlternate": false,
+      "isAffiliate": false,
+      "isOverage": false,
+      "isUnderage": false,
+      "isReleased": false,
+      "seasonId": null,
+      "officeId": 9175,
+      "externalId": null,
+      "id": null,
+      "participant": {
+        "fullName": "FÉLIX TURMEL"
+      }
+    },
+    {
+      "teamId": 118876,
+      "participantId": 760593,
+      "positions": [
+        "F"
+      ],
+      "number": 4,
+      "isCaptain": false,
+      "isAlternate": false,
+      "isAffiliate": false,
+      "isOverage": false,
+      "isUnderage": false,
+      "isReleased": false,
+      "seasonId": null,
+      "officeId": 9175,
+      "externalId": null,
+      "id": null,
+      "participant": {
+        "fullName": "LOUIS-PHILIPPE BOUFFARD"
+      }
+    },
+    {
+      "teamId": 118876,
+      "participantId": 857573,
+      "positions": [
+        "F"
+      ],
+      "number": 6,
+      "isCaptain": false,
+      "isAlternate": false,
+      "isAffiliate": false,
+      "isOverage": false,
+      "isUnderage": false,
+      "isReleased": false,
+      "seasonId": null,
+      "officeId": 9175,
+      "externalId": null,
+      "id": null,
+      "participant": {
+        "fullName": "ÉTIENNE FRADÉTTE"
+      }
+    },
+    {
+      "teamId": 118876,
+      "participantId": 909841,
+      "positions": [
+        "D"
+      ],
+      "number": 7,
+      "isCaptain": false,
+      "isAlternate": false,
+      "isAffiliate": false,
+      "isOverage": false,
+      "isUnderage": false,
+      "isReleased": false,
+      "seasonId": null,
+      "officeId": 9175,
+      "externalId": null,
+      "id": null,
+      "participant": {
+        "fullName": "MAXENCE BLAIS"
+      }
+    },
+    {
+      "teamId": 118876,
+      "participantId": null,
+      "positions": [
+        "F"
+      ],
+      "number": 8,
+      "isCaptain": false,
+      "isAlternate": false,
+      "isAffiliate": false,
+      "isOverage": false,
+      "isUnderage": false,
+      "isReleased": false,
+      "seasonId": null,
+      "officeId": 9175,
+      "externalId": null,
+      "id": null,
+      "participant": {
+        "fullName": "ELIOT GENDRON"
+      }
+    },
+    {
+      "teamId": 118876,
+      "participantId": 909844,
+      "positions": [
+        "D"
+      ],
+      "number": 9,
+      "isCaptain": false,
+      "isAlternate": false,
+      "isAffiliate": false,
+      "isOverage": false,
+      "isUnderage": false,
+      "isReleased": false,
+      "seasonId": null,
+      "officeId": 9175,
+      "externalId": null,
+      "id": null,
+      "participant": {
+        "fullName": "THOMAS LESSARD"
+      }
+    },
+    {
+      "teamId": 118876,
+      "participantId": 760586,
+      "positions": [
+        "F"
+      ],
+      "number": 10,
+      "isCaptain": false,
+      "isAlternate": false,
+      "isAffiliate": false,
+      "isOverage": false,
+      "isUnderage": false,
+      "isReleased": false,
+      "seasonId": null,
+      "officeId": 9175,
+      "externalId": null,
+      "id": null,
+      "participant": {
+        "fullName": "MÉDÉRIC MÉNARD"
+      }
+    },
+    {
+      "teamId": 118876,
+      "participantId": null,
+      "positions": [
+        "F"
+      ],
+      "number": 11,
+      "isCaptain": false,
+      "isAlternate": false,
+      "isAffiliate": false,
+      "isOverage": false,
+      "isUnderage": false,
+      "isReleased": false,
+      "seasonId": null,
+      "officeId": 9175,
+      "externalId": null,
+      "id": null,
+      "participant": {
+        "fullName": "GABRIEL GUILLEMETTE"
+      }
+    },
+    {
+      "teamId": 118876,
+      "participantId": 909842,
+      "positions": [
+        "D"
+      ],
+      "number": 12,
+      "isCaptain": false,
+      "isAlternate": false,
+      "isAffiliate": false,
+      "isOverage": false,
+      "isUnderage": false,
+      "isReleased": false,
+      "seasonId": null,
+      "officeId": 9175,
+      "externalId": null,
+      "id": null,
+      "participant": {
+        "fullName": "ARNAUD CHAMBERS-ALAIN"
+      }
+    },
+    {
+      "teamId": 118876,
+      "participantId": null,
+      "positions": [
+        "F"
+      ],
+      "number": 13,
+      "isCaptain": false,
+      "isAlternate": false,
+      "isAffiliate": false,
+      "isOverage": false,
+      "isUnderage": false,
+      "isReleased": false,
+      "seasonId": null,
+      "officeId": 9175,
+      "externalId": null,
+      "id": null,
+      "participant": {
+        "fullName": "WILLIAM DUGUAY"
+      }
+    },
+    {
+      "teamId": 118876,
+      "participantId": null,
+      "positions": [
+        "F"
+      ],
+      "number": 14,
+      "isCaptain": false,
+      "isAlternate": false,
+      "isAffiliate": false,
+      "isOverage": false,
+      "isUnderage": false,
+      "isReleased": false,
+      "seasonId": null,
+      "officeId": 9175,
+      "externalId": null,
+      "id": null,
+      "participant": {
+        "fullName": "CHARLES DUVAL"
+      }
+    },
+    {
+      "teamId": 118876,
+      "participantId": null,
+      "positions": [
+        "F"
+      ],
+      "number": 16,
+      "isCaptain": false,
+      "isAlternate": false,
+      "isAffiliate": false,
+      "isOverage": false,
+      "isUnderage": false,
+      "isReleased": false,
+      "seasonId": null,
+      "officeId": 9175,
+      "externalId": null,
+      "id": null,
+      "participant": {
+        "fullName": "ÉMILE PELLETIER"
+      }
+    },
+    {
+      "teamId": 118876,
+      "participantId": 760590,
+      "positions": [
+        "F"
+      ],
+      "number": 17,
+      "isCaptain": false,
+      "isAlternate": false,
+      "isAffiliate": false,
+      "isOverage": false,
+      "isUnderage": false,
+      "isReleased": false,
+      "seasonId": null,
+      "officeId": 9175,
+      "externalId": null,
+      "id": null,
+      "participant": {
+        "fullName": "MILAN BÉLANGER"
+      }
+    },
+    {
+      "teamId": 118876,
+      "participantId": null,
+      "positions": [
+        "F"
+      ],
+      "number": 18,
+      "isCaptain": false,
+      "isAlternate": false,
+      "isAffiliate": false,
+      "isOverage": false,
+      "isUnderage": false,
+      "isReleased": false,
+      "seasonId": null,
+      "officeId": 9175,
+      "externalId": null,
+      "id": null,
+      "participant": {
+        "fullName": "HUBERT LEMAY"
+      }
+    },
+    {
+      "teamId": 118876,
+      "participantId": null,
+      "positions": [
+        "F"
+      ],
+      "number": 19,
+      "isCaptain": false,
+      "isAlternate": false,
+      "isAffiliate": false,
+      "isOverage": false,
+      "isUnderage": false,
+      "isReleased": false,
+      "seasonId": null,
+      "officeId": 9175,
+      "externalId": null,
+      "id": null,
+      "participant": {
+        "fullName": "ALEX-ANTOINE LEMAY"
+      }
+    },
+    {
+      "teamId": 118876,
+      "participantId": 909845,
+      "positions": [
+        "G"
+      ],
+      "number": 30,
+      "isCaptain": false,
+      "isAlternate": false,
+      "isAffiliate": false,
+      "isOverage": false,
+      "isUnderage": false,
+      "isReleased": false,
+      "seasonId": null,
+      "officeId": 9175,
+      "externalId": null,
+      "id": null,
+      "participant": {
+        "fullName": "MALCOM FOURNIER"
+      }
+    },
+    {
+      "teamId": 118876,
+      "participantId": 909846,
+      "positions": [
+        "G"
+      ],
+      "number": 31,
+      "isCaptain": false,
+      "isAlternate": false,
+      "isAffiliate": false,
+      "isOverage": false,
+      "isUnderage": false,
+      "isReleased": false,
+      "seasonId": null,
+      "officeId": 9175,
+      "externalId": null,
+      "id": null,
+      "participant": {
+        "fullName": "RAPHAËL ROBERGE"
+      }
+    }
+  ],
+  "away_team_roster": [
+    {
+      "teamId": 128297,
+      "participantId": 952049,
+      "positions": [
+        "G"
+      ],
+      "number": 33,
+      "isCaptain": false,
+      "isAlternate": false,
+      "isAffiliate": false,
+      "isOverage": false,
+      "isUnderage": false,
+      "isReleased": false,
+      "seasonId": null,
+      "officeId": 9175,
+      "externalId": null,
+      "id": null,
+      "participant": {
+        "fullName": "ROMIE BERGERON"
+      }
+    },
+    {
+      "teamId": 128297,
+      "participantId": 828495,
+      "positions": [
+        "G"
+      ],
+      "number": 30,
+      "isCaptain": false,
+      "isAlternate": false,
+      "isAffiliate": false,
+      "isOverage": false,
+      "isUnderage": false,
+      "isReleased": false,
+      "seasonId": null,
+      "officeId": 9175,
+      "externalId": null,
+      "id": null,
+      "participant": {
+        "fullName": "JAKE KELLY"
+      }
+    },
+    {
+      "teamId": 128297,
+      "participantId": null,
+      "positions": [
+        "F"
+      ],
+      "number": 7,
+      "isCaptain": false,
+      "isAlternate": false,
+      "isAffiliate": false,
+      "isOverage": false,
+      "isUnderage": false,
+      "isReleased": false,
+      "seasonId": null,
+      "officeId": 9175,
+      "externalId": null,
+      "id": null,
+      "participant": {
+        "fullName": "WILLIAM CLEARY"
+      }
+    },
+    {
+      "teamId": 128297,
+      "participantId": 828473,
+      "positions": [
+        "F"
+      ],
+      "number": 8,
+      "isCaptain": false,
+      "isAlternate": false,
+      "isAffiliate": false,
+      "isOverage": false,
+      "isUnderage": false,
+      "isReleased": false,
+      "seasonId": null,
+      "officeId": 9175,
+      "externalId": null,
+      "id": null,
+      "participant": {
+        "fullName": "SIMON-OLIVIER CHAREST"
+      }
+    },
+    {
+      "teamId": 128297,
+      "participantId": 952044,
+      "positions": [
+        "F"
+      ],
+      "number": 9,
+      "isCaptain": false,
+      "isAlternate": false,
+      "isAffiliate": false,
+      "isOverage": false,
+      "isUnderage": false,
+      "isReleased": false,
+      "seasonId": null,
+      "officeId": 9175,
+      "externalId": null,
+      "id": null,
+      "participant": {
+        "fullName": "ÉMILE BRIÈRE"
+      }
+    },
+    {
+      "teamId": 128297,
+      "participantId": 959339,
+      "positions": [
+        "D"
+      ],
+      "number": 10,
+      "isCaptain": false,
+      "isAlternate": false,
+      "isAffiliate": false,
+      "isOverage": false,
+      "isUnderage": false,
+      "isReleased": false,
+      "seasonId": null,
+      "officeId": 9175,
+      "externalId": null,
+      "id": null,
+      "participant": {
+        "fullName": "EDWIN GAUDY"
+      }
+    },
+    {
+      "teamId": 128297,
+      "participantId": null,
+      "positions": [
+        "F"
+      ],
+      "number": 11,
+      "isCaptain": false,
+      "isAlternate": false,
+      "isAffiliate": false,
+      "isOverage": false,
+      "isUnderage": false,
+      "isReleased": false,
+      "seasonId": null,
+      "officeId": 9175,
+      "externalId": null,
+      "id": null,
+      "participant": {
+        "fullName": "MALCOLM CLOUTIER"
+      }
+    },
+    {
+      "teamId": 128297,
+      "participantId": 952045,
+      "positions": [
+        "D"
+      ],
+      "number": 12,
+      "isCaptain": false,
+      "isAlternate": false,
+      "isAffiliate": false,
+      "isOverage": false,
+      "isUnderage": false,
+      "isReleased": false,
+      "seasonId": null,
+      "officeId": 9175,
+      "externalId": null,
+      "id": null,
+      "participant": {
+        "fullName": "ALEX COUTURE"
+      }
+    },
+    {
+      "teamId": 128297,
+      "participantId": null,
+      "positions": [
+        "F"
+      ],
+      "number": 13,
+      "isCaptain": false,
+      "isAlternate": false,
+      "isAffiliate": false,
+      "isOverage": false,
+      "isUnderage": false,
+      "isReleased": false,
+      "seasonId": null,
+      "officeId": 9175,
+      "externalId": null,
+      "id": null,
+      "participant": {
+        "fullName": "LUCAS BÉDARD"
+      }
+    },
+    {
+      "teamId": 128297,
+      "participantId": 959338,
+      "positions": [
+        "D"
+      ],
+      "number": 14,
+      "isCaptain": false,
+      "isAlternate": false,
+      "isAffiliate": false,
+      "isOverage": false,
+      "isUnderage": false,
+      "isReleased": false,
+      "seasonId": null,
+      "officeId": 9175,
+      "externalId": null,
+      "id": null,
+      "participant": {
+        "fullName": "SEAN LÉGARÉ"
+      }
+    },
+    {
+      "teamId": 128297,
+      "participantId": 952048,
+      "positions": [
+        "F"
+      ],
+      "number": 16,
+      "isCaptain": false,
+      "isAlternate": false,
+      "isAffiliate": false,
+      "isOverage": false,
+      "isUnderage": false,
+      "isReleased": false,
+      "seasonId": null,
+      "officeId": 9175,
+      "externalId": null,
+      "id": null,
+      "participant": {
+        "fullName": "OLIVIER BERTRAND"
+      }
+    },
+    {
+      "teamId": 128297,
+      "participantId": 828474,
+      "positions": [
+        "F"
+      ],
+      "number": 17,
+      "isCaptain": false,
+      "isAlternate": false,
+      "isAffiliate": false,
+      "isOverage": false,
+      "isUnderage": false,
+      "isReleased": false,
+      "seasonId": null,
+      "officeId": 9175,
+      "externalId": null,
+      "id": null,
+      "participant": {
+        "fullName": "CHARLES-ÉLI BERGERON"
+      }
+    },
+    {
+      "teamId": 128297,
+      "participantId": 952050,
+      "positions": [
+        "F"
+      ],
+      "number": 18,
+      "isCaptain": false,
+      "isAlternate": false,
+      "isAffiliate": false,
+      "isOverage": false,
+      "isUnderage": false,
+      "isReleased": false,
+      "seasonId": null,
+      "officeId": 9175,
+      "externalId": null,
+      "id": null,
+      "participant": {
+        "fullName": "PHILIPPE ROCHON"
+      }
+    },
+    {
+      "teamId": 128297,
+      "participantId": 952046,
+      "positions": [
+        "D"
+      ],
+      "number": 19,
+      "isCaptain": false,
+      "isAlternate": false,
+      "isAffiliate": false,
+      "isOverage": false,
+      "isUnderage": false,
+      "isReleased": false,
+      "seasonId": null,
+      "officeId": 9175,
+      "externalId": null,
+      "id": null,
+      "participant": {
+        "fullName": "THOMAS LETOURNEAU"
+      }
+    },
+    {
+      "teamId": 128297,
+      "participantId": 952047,
+      "positions": [
+        "F"
+      ],
+      "number": 20,
+      "isCaptain": false,
+      "isAlternate": false,
+      "isAffiliate": false,
+      "isOverage": false,
+      "isUnderage": false,
+      "isReleased": false,
+      "seasonId": null,
+      "officeId": 9175,
+      "externalId": null,
+      "id": null,
+      "participant": {
+        "fullName": "TOMMY MÉNARD"
+      }
+    },
+    {
+      "teamId": 128297,
+      "participantId": null,
+      "positions": [
+        "F"
+      ],
+      "number": 21,
+      "isCaptain": false,
+      "isAlternate": false,
+      "isAffiliate": false,
+      "isOverage": false,
+      "isUnderage": false,
+      "isReleased": false,
+      "seasonId": null,
+      "officeId": 9175,
+      "externalId": null,
+      "id": null,
+      "participant": {
+        "fullName": "CHARLES POULIN"
+      }
+    },
+    {
+      "teamId": 128297,
+      "participantId": 828471,
+      "positions": [
+        "D"
+      ],
+      "number": 25,
+      "isCaptain": false,
+      "isAlternate": false,
+      "isAffiliate": false,
+      "isOverage": false,
+      "isUnderage": false,
+      "isReleased": false,
+      "seasonId": null,
+      "officeId": 9175,
+      "externalId": null,
+      "id": null,
+      "participant": {
+        "fullName": "ELLIOTT-JAMES BERNIER"
+      }
+    }
+  ],
+  "gamesheet_pdf_file": null,
+  "starting_goalies": {
+    "home_goalie": "RAPHAËL ROBERGE",
+    "away_goalie": "ROMIE BERGERON"
+  },
+  "game_type": "season",
+  "schedule_id": 182366
+}
