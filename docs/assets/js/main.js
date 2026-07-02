@@ -90,7 +90,7 @@ class DataManager {
     }
 
     getSkaters() {
-        return this.players.filter(player => player.position !== 'G');
+        return this.players.filter(player => player.position !== 'G' && player.position !== 'Coach');
     }
 
     getGoalies() {
